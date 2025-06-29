@@ -1,0 +1,2 @@
+# Solving-Buddy
+Maths Solution
